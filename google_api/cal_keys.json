@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "windy-territory-374808",
+  "private_key_id": "2435aa1e02f952033a88a9b6f118e891e8387716",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuKJgapX4JDXrB\nxj3ViLi65aJycspZNwwbWycNqOwJW32r4jbZLMtiGWud2RB05V9LGoiXyXUCULxq\ndXPbOaZow41TEHMogzGgpR9x+feYmqSJf4onOoKfDu1yANQRdDIwjCtY2WiKkPUU\n1IRQaeVoHnRrfpugEIjo+gFTF4m0S4Y5cyV4qlnEJDkm2lfMa14MpLmb9c5wkmwM\nlMWJhdeysv6wVZZD1C/kqBrGA9HbBXJwmTDI7ETrXTXdUlQIhJQv7U/NpJ2fyZW/\nw4oBkuaSM7qyiW+8pul4SAXNvgDwNdHgu9pTR8KqHCGXs55i7JlzU9AUfcNVcw1G\nrvaO0KDBAgMBAAECggEAAnRqO8w7WyBcnh04Gtjfs802lstT741061WUk2PsnNSF\nP4ZIk7vNbTuMtBWNAE3aTEMSDywqwSXCEhyYij5XuaVaFDo5f2lenOoMzQv96+T9\neoGcLLyjfl9kLN4VLJtHdWbFOGCxypRPG9Gvb7/8rQCnNGCsT0xCQpowjkYp3pAz\nWH0WcA1HfVcApXpiDF5d06Id3efNSWd3/JQm4ceE71t4Xy4BGsTZI7KR0lXIaHcz\nLVQskzN+bDFInc+Dx2DXBBriO8PAnWJi2VuEy9A9R8bUGjjaLcXaTcc4KD25/7MP\n5zLduF6xVtFKjVC2JZtIpuHyVeMRd1Zd3lr7i32TFQKBgQDnbIsK6oWue918EMhx\nCSwGi9n7BPbGXjd2Xuy+TSnfteyYOuSbHFkr+CdE4ITQqlhO8YqF0Tuy3gSvgZxM\nrlVgYso3N/NUUk5KItE7IwaeA7Ka3PrAwzpQSTkYX2UJQnNNfOhmr8oSYykRL1eZ\nNkpYakm5oX1x/OGjh/7Q7sPiZwKBgQDApz32j9r2JDbm5w0Hl4Frv6T5TqOYuRGh\nHBt+wimnK8pPuoTP8LGbcECV/f5eT8fFDQc596fzyvGk2J5wrcBihWqAzCkqiCz5\n+RY8F6+zmW2oAqBS2bwKwEcstYQXH/siOfR7gg/c/OV4NYMoZiiXzjGdI6hpatFY\nVU0e4vd6lwKBgFI1s9sH3r9SDycQizPkbzhQG/pZFBT5yTgKlo0vui1XYhnd6fHU\nCzVcbQ7Bt0ytBrvcgDnzTwLGbeGu6EgxMfEQhwdAn/cXWepqHeulEKe3Zo4u7ADo\nGWIF8Ptgf/LfITioo6I+1kjb4u3Q5Ixvxc9Myq3f2UFR9RHzsKil+P4HAoGAerGI\nSuDvKFeEB6YarD0XFZIl9QjaM8eZrKuD70Sk1myTGhfFwdCerEnfOCdcup/AsIRN\nl+NbuW4EW2IB9e0SWyxw2bosdYPocQLr4DWNlqoeJiQWCu3UTlyKd7TafQfHHtMe\nGxKIG8uMMPSTpUT6kUOmYVd2SDzZOpKI3STbS90CgYEAyWA6c3wUKxDTuXkr8WJT\n+brYhhV8097TCIBsRW1+M9Lw4V9NROeu8LA9XLoebu3yss5YvggxFrPHpv9E0bt5\nNMRFippPUT+Qxh/HWONRoKXnxLIW7T8zUZ3nu+JtcHOQiFmYvl1PCbFmPbQ5dzPe\ncIm+VAsl5PVAlkhgw0nKats=\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlecalender@windy-territory-374808.iam.gserviceaccount.com",
+  "client_id": "106281456639940028647",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlecalender%40windy-territory-374808.iam.gserviceaccount.com"
+}
